@@ -1,0 +1,2 @@
+attention a ne pas utiliser le browser dans les dossiers de session pour la suppression.
+

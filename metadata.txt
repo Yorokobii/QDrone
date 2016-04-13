@@ -1,0 +1,10 @@
+[general]
+name=QDrone
+description=QDrone plugin
+category=Vector
+version=0.1
+qgisMinimumVersion=2.14
+
+author=Guillaume BOEHM
+
+class_name=QDrone
