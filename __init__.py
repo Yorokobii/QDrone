@@ -15,5 +15,5 @@ Name			 	 : QDrone plugin
 """
 
 def classFactory(iface):
-    from .QDrone import QDrone
-    return QDrone(iface)
+  from .QDrone import QDrone
+  return QDrone(iface)

@@ -1,2 +1,3 @@
-attention a ne pas utiliser le browser dans les dossiers de session pour la suppression.
+﻿éviter les Ctrl z dans le menu de layers
 
+ne pas mélanger suppression et changement d'ordre dans la même edition
